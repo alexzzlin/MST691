@@ -1,2 +1,2 @@
 # MST691
-Social Network Intelligence
+Data Science Tool and Techniques
